@@ -65,3 +65,7 @@ flyway {
     user = 'hello'
     password = 'hello'
 }
+
+flywayMigrate.doFirst {
+
+}
